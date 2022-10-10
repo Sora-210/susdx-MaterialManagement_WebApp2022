@@ -1,0 +1,9 @@
+version: '3'
+services:
+  dev:
+    build: .
+    working_dir: /workspace
+    command: sleep infinity
+    volumes:
+      - ../:/workspace:cached
+      - ~/.ssh:/root/.ssh
