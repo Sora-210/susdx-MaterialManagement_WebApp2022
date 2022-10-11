@@ -17,7 +17,7 @@ This repository is a new version of Material Management System's web application
 1. Clone this repository
 2. Open directory
 3. Click 'Open Folder in Container' of Dev Containers function
-
+4. Install npm packages by running command 'npm install' at /workspace directory
 ---
 
 DX Project in Suwa University of science
